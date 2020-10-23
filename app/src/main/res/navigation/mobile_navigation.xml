@@ -47,4 +47,11 @@
         android:name="com.willshuffyproject.mynavigationdrawerexample.ui.cart.CartFragment"
         android:label="@string/menu_cart"
         tools:layout="@layout/fragment_cart" />
+
+    <activity
+        android:id="@+id/nav_subway"
+        android:name="com.willshuffyproject.mynavigationdrawerexample.SubwayActivity"
+        android:label="@string/menu_subway"
+        tools:layout="@layout/activity_subway" />
+
 </navigation>
